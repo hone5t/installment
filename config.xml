@@ -88,4 +88,5 @@
     <plugin name="cordova-plugin-contacts" spec="^2.3.1">
         <variable name="CONTACTS_USAGE_DESCRIPTION" value=" " />
     </plugin>
+    <plugin name="cordova-plugin-speechrecognition" spec="^1.1.2" />
 </widget>
